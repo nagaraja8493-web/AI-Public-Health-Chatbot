@@ -1,0 +1,42 @@
+{
+    "classes": [
+        "allergy",
+        "asthma",
+        "cold",
+        "cough",
+        "diabetes",
+        "digestive_health",
+        "emergency",
+        "fever",
+        "first_aid",
+        "goodbye",
+        "greeting",
+        "headache",
+        "heart_health",
+        "hygiene",
+        "hypertension",
+        "mental_wellness",
+        "nutrition",
+        "vaccination"
+    ],
+    "mapping": {
+        "0": "allergy",
+        "1": "asthma",
+        "2": "cold",
+        "3": "cough",
+        "4": "diabetes",
+        "5": "digestive_health",
+        "6": "emergency",
+        "7": "fever",
+        "8": "first_aid",
+        "9": "goodbye",
+        "10": "greeting",
+        "11": "headache",
+        "12": "heart_health",
+        "13": "hygiene",
+        "14": "hypertension",
+        "15": "mental_wellness",
+        "16": "nutrition",
+        "17": "vaccination"
+    }
+}
